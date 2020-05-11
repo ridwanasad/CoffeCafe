@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Dunkin Donuts</string>
+    
+    <string-array name="Products">
+        <item>Ice Coffee</item>
+        <item>Ice Latte</item>
+        <item>Frappe</item>
+        <item>Coffee</item>
+        <item>Tea</item>
+        <item>Espresso</item>
+        <item>Cappachino</item>
+        <item>Coco</item>
+        <item>Latte</item>
+        <item>Strawberry Sprinkles</item>
+        <item>Plaine Coco</item>
+        <item>Smiley</item>
+        <item>Coconut</item>
+        <item>Coco Sprinkles</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Random describtion</item>
+        <item>Random describtion</item>
+        <item>Random describtion</item>
+        <item>Random describtion</item>
+        <item>Random describtion</item>
+        <item>Random describtion</item>
+        <item>Random describtion</item>
+        <item>Random describtion</item>
+        <item>Random describtion</item>
+        <item>Random describtion</item>
+        <item>Random describtion</item>
+        <item>Random describtion</item>
+        <item>Random describtion</item>
+        <item>Random describtion</item>
+    </string-array>
+</resources>
